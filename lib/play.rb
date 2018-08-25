@@ -41,7 +41,5 @@ def play(board)
   while move <9
     turn(board)
     move += 1
-  else
-    
   end
 end
